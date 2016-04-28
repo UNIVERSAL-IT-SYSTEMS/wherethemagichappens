@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
 
-f = open("kevin.ans", "rb")
+f = open("test.ans", "rb")
 print(f.read().decode("cp437"))
 f.close()
